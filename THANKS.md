@@ -1,9 +1,25 @@
-# JADE THANKS file
-JADE has originally been written by Blinkenlights. Many people have further contributed to JADE by reporting problems, suggesting various improvements or submitting actual code. Here is a list of these people. Help us keep it complete and exempt of errors. 
+# Project Name THANKS
 
-To everyone on this list: Thank you! JADE wouldn't be what it is today without your support!
+Many people have contributed to Project Name by reporting problems, suggesting various improvements, submitting code or providing sponsorships.  
+Here is a list of these people.  
 
-*Sorted alphabetically:*
-| Name        | E-address         | Contribution                                |
-| ----------- | ----------------- | ------------------------------------------- |
-| Nils Gawlik | nilsgawlik@gmx.de | Original creator of HTTP interface and GDPC |
+To all of these people: ***THANK YOU!***
+
+## Code Contributors
+| Name | E-Address | Reason |
+| ---- | --------- | ------ |
+
+Nobody has contributed code yet, be the first to do so!
+
+## Sponsors
+| Name | E-Address | Reason |
+| ---- | --------- | ------ |
+
+Nobody has sponsored yet, be the first to do so!
+
+## Bug Reporters and Improvement Suggestors
+| Name | E-Address | Reason |
+| ---- | --------- | ------ |
+
+Nobody has reported any bugs (yey!) or suggested any improvements (yay?) yet.  
+Take your time.
